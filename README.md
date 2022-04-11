@@ -14,7 +14,7 @@ You can also find me here:
 
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Technologies & Tools
 <!--
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
@@ -48,22 +48,6 @@ You can also find me here:
 <br>
 
 
-
-
-<!--
-**jjgonc/jjgonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 **RuiFCMoreira/RuiFCMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
