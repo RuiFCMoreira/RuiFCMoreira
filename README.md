@@ -41,8 +41,8 @@ You can also find me here:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=jjgonc&show_icons=true&theme=vision-friendly-dark" alt="RuiFCMoreira's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjgonc&layout=compact&theme=vision-friendly-dark" alt="RuiFCMoreira's most used languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RuiFCMoreira&show_icons=true&theme=vision-friendly-dark" alt="RuiFCMoreira's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiFCMoreira&layout=compact&theme=vision-friendly-dark" alt="RuiFCMoreira's most used languages"/>
 </p>
 
 <br>
