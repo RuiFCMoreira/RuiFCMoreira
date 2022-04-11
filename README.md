@@ -35,7 +35,7 @@ You can also find me here:
 
 
 
-
+<!--
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -46,7 +46,7 @@ You can also find me here:
 </p>
 
 <br>
-
+-->
 
 
 <!--
