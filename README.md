@@ -31,11 +31,12 @@ You can also find me here:
 <img src= "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt ="c-language" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt ="c-plus-plus" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt ="haskell" width="40" height="40" style="max-width:100%;"></img>
+<img src= "[https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg](https://img.shields.io/badge/-Prolog-05122A?style=flat&logo=Prolog)" alt ="prolog" width="40" height="40" style="max-width:100%;"></img>
 <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt ="mysql" width="40" height="40" style="max-width:100%;"></img>
 
 
 
-<!--
+
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -46,7 +47,7 @@ You can also find me here:
 </p>
 
 <br>
--->
+
 
 
 <!--
