@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rui Moreira</h1>
 
-- 📚 I'm a 3rd year Software Engineering student.
+- 📚 I'm a 2rd year Master Degree of Software Engineering student.
 
 - 🔭 I’m currently studying at [Universidade do Minho](https://www.uminho.pt/).
 
